@@ -1,7 +1,5 @@
 ### NAME: A. PRAVEENA
 ### REG NO: 24006885
-### Experiment- 2 BOOLEAN Function Implementation.
-
 ### BOOLEAN_FUNCTION_MINIMIZATION
 
 ### AIM:
