@@ -1,6 +1,6 @@
 ### NAME: A. PRAVEENA
 ### REG NO: 24006885
-### Experiment no.2: Implementation of Boolean function 
+### Experiment no.2: IMPLEMENTATION OF BOOLEAN FUNCTION
 
 ### AIM:
 
